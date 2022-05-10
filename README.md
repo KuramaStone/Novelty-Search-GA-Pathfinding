@@ -7,4 +7,4 @@ The main power behind this is the ability to maintain past structure despite mut
 
 ![save-11](https://user-images.githubusercontent.com/20337549/140167383-dd897a6a-deac-4639-8196-2c954194d516.gif)
 
-The gif shows the exploration of the agents overtime. Each tile represents a new path to a tile without hitting an undetectable random encounter by manipulating their path through the timing of their inputs. Red tiles are new and blue tiles are old.
+The gif shows the exploration of the agents overtime. Each tile represents a new path to a tile without hitting an undetectable random encounter by manipulating their path through the timing of their inputs. Red tiles are new and blue tiles are old. I promise the gaps are obstacles and not missed spaces!
